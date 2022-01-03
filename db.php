@@ -1,7 +1,7 @@
 <?php
-    $databaseHost = "localhost"; // facebook.com micorsoft.com
-    $databaseName = "todo";
-    $databaseUser = 'root';
-    $databasePass = '';
+    $databaseHost = "db4free.net"; 
+    $databaseName = "crud_todo";
+    $databaseUser = 'nandani';
+    $databasePass = 'Todo_list';
     $mysqli = mysqli_connect($databaseHost, $databaseUser,$databasePass, $databaseName);
 ?>
