@@ -1,0 +1,10 @@
+.insert-todo{
+    background-color: rgba(220, 220, 220, 0.384);
+    /* text-align: center; */
+    padding: 2rem;
+}
+
+#formGroupExampleInput{
+    width: 30vw;
+}
+
